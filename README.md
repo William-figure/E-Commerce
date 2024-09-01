@@ -16,7 +16,7 @@ This project is a backend system for an e-commerce platform built with Node.js, 
     - [Products](#products)
     - [Tags](#tags)
   - [Seeding the Database](#seeding-the-database)
-  - [Screencast](#screencast)
+  - [Video](#video)
 
 ## Installation
 
@@ -117,5 +117,5 @@ npm run seed
 
 This command will execute the scripts in the `seeds` directory, populating your database with initial data.
 
-## Screencast
-![screencast_for_e_commerce]()
+## Video
+[demo](https://youtu.be/b2_hhc6-MGE)
